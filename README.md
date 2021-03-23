@@ -7,4 +7,5 @@ Sales dashboard with Microsoft Power BI
   - Customer analysis by region and sales
 
 - Extracted the data from Microsoft SQL Serever
-- Loaded and prepared the data for  the data using Pandas
+- Created a data model in Power BI and prepared the data for visualization and analysis
+- Visualized the different parameters and measurements using Power BI 
