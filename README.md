@@ -8,4 +8,4 @@ Sales dashboard with Microsoft Power BI
 
 - Extracted the data from Microsoft SQL Serever
 - Created a data model in Power BI and prepared the data for visualization and analysis
-- Visualized the different parameters and measurements using Power BI 
+- Visualized the different parameters and measurements using a variety of charts, graphs, and other tools available through Power BI. 
